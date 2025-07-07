@@ -5,6 +5,7 @@
       <div class="container mx-auto flex justify-between items-center">
         <NuxtLink to="/" class="text-2xl font-bold">BrickWorks</NuxtLink>
         <nav class="flex space-x-8 items-center">
+          <NuxtLink to="/" class="hover:text-black">Home</NuxtLink>
           <NuxtLink to="/features" class="hover:text-black">Features</NuxtLink>
           <NuxtLink to="/pricing" class="hover:text-black">Pricing</NuxtLink>
           <NuxtLink to="/support" class="hover:text-black">Support</NuxtLink>
