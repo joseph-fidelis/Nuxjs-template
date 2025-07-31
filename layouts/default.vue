@@ -20,7 +20,7 @@
     </header>
 
     <!-- Main Content (slot for page content) -->
-    <main class="flex-grow container mx-auto p-4 bg-gray[]">
+    <main class="flex-grow container mx-auto p-4">
       <slot />
     </main>
 
